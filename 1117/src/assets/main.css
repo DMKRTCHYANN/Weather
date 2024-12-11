@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Roboto", sans-serif;  
+    width: 100%;
+    min-height: 100vh;
+    background: rgb(10,0,180);
+    background: linear-gradient(347deg, rgba(10,0,180,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
